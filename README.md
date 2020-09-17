@@ -41,4 +41,12 @@ _____
 - 2.Python Packages with examples
 - 3.introduction about Django
 - 4.MVC, MVT, Architecture of Django
-- pip install django
+- 5.pip install django
+______
+### Day4(17-09-20)
+#### Day4 Content:
+______
+- 1.Installation of Django
+- 2.Explanation of Project folder with files created in it
+- 3.Creation of Userapp,configuration and files creation with brief explanation
+- 4.Running server with userapp function in views(HttpResponse to a browser)
